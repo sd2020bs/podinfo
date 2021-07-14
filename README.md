@@ -6,6 +6,8 @@
 [![Go Report Card](https://goreportcard.com/badge/github.com/stefanprodan/podinfo)](https://goreportcard.com/report/github.com/stefanprodan/podinfo)
 [![Docker Pulls](https://img.shields.io/docker/pulls/stefanprodan/podinfo)](https://hub.docker.com/r/stefanprodan/podinfo)
 
+[![Build Status](https://cloud.drone.io/api/badges/sd2020bs/podinfo/status.svg?ref=refs/heads/master)](https://cloud.drone.io/sd2020bs/podinfo)
+
 Podinfo is a tiny web application made with Go that showcases best practices of running microservices in Kubernetes.
 Podinfo is used by CNCF projects like [Flux](https://github.com/fluxcd/flux2) and [Flagger](https://github.com/fluxcd/flagger)
 for end-to-end testing and workshops.
